@@ -1,4 +1,3 @@
 ultralytics
-flask
 pillow
-gunicorn
+streamlit
